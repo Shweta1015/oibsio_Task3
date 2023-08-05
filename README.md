@@ -1,9 +1,9 @@
 This is basically an ATM machine software code which perform same functionalities like the real life ATM Machine.
-In which functions this functions are performed: 1.Transaction History 
-                                                 2.Withdraw
-                                                 3.Deposit
-                                                 4.Transfer
-                                                 5.Quit 
+In which this functions are performed: 1.Transaction History 
+                                       2.Withdraw
+                                       3.Deposit
+                                       4.Transfer
+                                       5.Quit 
                         
 For creating this project we have created 4 seperated classes but within the same package to reduce complexity and easy understanding .
 In the Atm class we have created private variable/method for all the named functions with its getter/setter and default constructor.
